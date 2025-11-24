@@ -1,0 +1,32 @@
+[
+  {
+    "transcript_text": "Hello, I am excited to introduce myself. My name is Aarti and I am 14 years old. I study in 9th grade at Delhi Public School. I really enjoy reading books and playing badminton. In my free time, I like to paint and spend time with my family. I feel great to be here today and share a little bit about myself. Thank you for listening.",
+    "duration_seconds": 35,
+    "description": "Excellent transcript with salutation, all keywords, good flow",
+    "timestamp": "2025-11-24T23:04:51.674693"
+  },
+  {
+    "transcript_text": "Hi, my name is Rahul. I am 13 years old and I study in class 8 at St. Mary's School. My hobbies include playing cricket and video games. I enjoy spending time with my friends. Thank you.",
+    "duration_seconds": 25,
+    "description": "Good transcript with most keywords",
+    "timestamp": "2025-11-23T21:04:51.674706"
+  },
+  {
+    "transcript_text": "Um, well, my name is, like, Priya and, uh, I am 15 years old. I go to, you know, Green Valley School. I like, um, reading and, uh, painting. That's basically it.",
+    "duration_seconds": 20,
+    "description": "Poor transcript with many filler words",
+    "timestamp": "2025-11-22T19:04:51.674709"
+  },
+  {
+    "transcript_text": "My name is Amit. I am 12 years old. I study in class 7. I like sports.",
+    "duration_seconds": 10,
+    "description": "Minimal transcript, too brief",
+    "timestamp": "2025-11-21T17:04:51.674711"
+  },
+  {
+    "transcript_text": "Good morning everyone. I am feeling great to introduce myself. My name is Kavya and I am 14 years old. I study in 9th grade at Cambridge International School. I am passionate about science and mathematics. In my free time, I enjoy conducting small experiments at home and reading science fiction novels. I also love playing the piano and have been learning it for the past 5 years. My family is very supportive of my interests and hobbies. I am excited to be part of this wonderful community. Thank you for your time and attention.",
+    "duration_seconds": 50,
+    "description": "Excellent detailed transcript with strong engagement",
+    "timestamp": "2025-11-20T15:04:51.674713"
+  }
+]
